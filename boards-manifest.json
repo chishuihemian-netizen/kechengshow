@@ -1,0 +1,460 @@
+{
+  "oriental": [
+    {
+      "file": "assets/oriental/01.jpg",
+      "thumbnail": "assets/oriental/01-thumb.jpg",
+      "source": "1未标题-2-01.jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/oriental/02.jpg",
+      "thumbnail": "assets/oriental/02-thumb.jpg",
+      "source": "1未标题-2-02.jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/oriental/03.jpg",
+      "thumbnail": "assets/oriental/03-thumb.jpg",
+      "source": "1未标题-2-03.jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/oriental/04.jpg",
+      "thumbnail": "assets/oriental/04-thumb.jpg",
+      "source": "1未标题-2-04.jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/oriental/05.jpg",
+      "thumbnail": "assets/oriental/05-thumb.jpg",
+      "source": "1未标题-2-05.jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/oriental/06.jpg",
+      "thumbnail": "assets/oriental/06-thumb.jpg",
+      "source": "1未标题-2-06.jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/oriental/07.jpg",
+      "thumbnail": "assets/oriental/07-thumb.jpg",
+      "source": "木板 李好.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/oriental/08.jpg",
+      "thumbnail": "assets/oriental/08-thumb.jpg",
+      "source": "木板 王若疏.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/oriental/09.jpg",
+      "thumbnail": "assets/oriental/09-thumb.jpg",
+      "source": "木板 王子丞.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/oriental/10.jpg",
+      "thumbnail": "assets/oriental/10-thumb.jpg",
+      "source": "木板 赵若汐.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/oriental/11.jpg",
+      "thumbnail": "assets/oriental/11-thumb.jpg",
+      "source": "木板 陈佳欣.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/oriental/12.jpg",
+      "thumbnail": "assets/oriental/12-thumb.jpg",
+      "source": "木板 刘沁仪.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/oriental/13.jpg",
+      "thumbnail": "assets/oriental/13-thumb.jpg",
+      "source": "木板 张洛萌.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/oriental/14.jpg",
+      "thumbnail": "assets/oriental/14-thumb.jpg",
+      "source": "木板 张诗扬.jpg",
+      "size": [
+        1358,
+        2008
+      ]
+    },
+    {
+      "file": "assets/oriental/15.jpg",
+      "thumbnail": "assets/oriental/15-thumb.jpg",
+      "source": "未标题-2-01.jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/oriental/16.jpg",
+      "thumbnail": "assets/oriental/16-thumb.jpg",
+      "source": "未标题-2-02.jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    }
+  ],
+  "explore": [
+    {
+      "file": "assets/explore/01.jpg",
+      "thumbnail": "assets/explore/01-thumb.jpg",
+      "source": "1未标题-2-01(1).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/explore/02.jpg",
+      "thumbnail": "assets/explore/02-thumb.jpg",
+      "source": "1未标题-2-02(1).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/explore/03.jpg",
+      "thumbnail": "assets/explore/03-thumb.jpg",
+      "source": "1未标题-2-03(1).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/explore/04.jpg",
+      "thumbnail": "assets/explore/04-thumb.jpg",
+      "source": "1未标题-2-04(1).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/explore/05.jpg",
+      "thumbnail": "assets/explore/05-thumb.jpg",
+      "source": "1未标题-2-05(1).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/explore/06.jpg",
+      "thumbnail": "assets/explore/06-thumb.jpg",
+      "source": "木板 胡瑞嘉.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/explore/07.jpg",
+      "thumbnail": "assets/explore/07-thumb.jpg",
+      "source": "木板 王涵旭.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/explore/08.jpg",
+      "thumbnail": "assets/explore/08-thumb.jpg",
+      "source": "木板 徐成锐.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/explore/09.jpg",
+      "thumbnail": "assets/explore/09-thumb.jpg",
+      "source": "木板 姜雨迪.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/explore/10.jpg",
+      "thumbnail": "assets/explore/10-thumb.jpg",
+      "source": "木板 李好(1).jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/explore/11.jpg",
+      "thumbnail": "assets/explore/11-thumb.jpg",
+      "source": "木板 忻夏玥.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/explore/12.jpg",
+      "thumbnail": "assets/explore/12-thumb.jpg",
+      "source": "未标题-2-01(1).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/explore/13.jpg",
+      "thumbnail": "assets/explore/13-thumb.jpg",
+      "source": "未标题-2-02(1).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/explore/14.jpg",
+      "thumbnail": "assets/explore/14-thumb.jpg",
+      "source": "未标题-2-03.jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    }
+  ],
+  "youth": [
+    {
+      "file": "assets/youth/01.jpg",
+      "thumbnail": "assets/youth/01-thumb.jpg",
+      "source": "1未标题-2-01(2).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/youth/02.jpg",
+      "thumbnail": "assets/youth/02-thumb.jpg",
+      "source": "1未标题-2-02(2).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/youth/03.jpg",
+      "thumbnail": "assets/youth/03-thumb.jpg",
+      "source": "1未标题-2-03(2).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/youth/04.jpg",
+      "thumbnail": "assets/youth/04-thumb.jpg",
+      "source": "木板 胡逸娴.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/youth/05.jpg",
+      "thumbnail": "assets/youth/05-thumb.jpg",
+      "source": "三角板 方馨悦.jpg",
+      "size": [
+        1300,
+        2008
+      ]
+    },
+    {
+      "file": "assets/youth/06.jpg",
+      "thumbnail": "assets/youth/06-thumb.jpg",
+      "source": "三角板 邢思予.jpg",
+      "size": [
+        1300,
+        2008
+      ]
+    },
+    {
+      "file": "assets/youth/07.jpg",
+      "thumbnail": "assets/youth/07-thumb.jpg",
+      "source": "三角板 余婷.jpg",
+      "size": [
+        1300,
+        2008
+      ]
+    },
+    {
+      "file": "assets/youth/08.jpg",
+      "thumbnail": "assets/youth/08-thumb.jpg",
+      "source": "木板 冯安琪.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/youth/09.jpg",
+      "thumbnail": "assets/youth/09-thumb.jpg",
+      "source": "三角板 蒋心愉.jpg",
+      "size": [
+        1300,
+        2008
+      ]
+    },
+    {
+      "file": "assets/youth/10.jpg",
+      "thumbnail": "assets/youth/10-thumb.jpg",
+      "source": "三角板 王家蕊.jpg",
+      "size": [
+        1300,
+        2008
+      ]
+    },
+    {
+      "file": "assets/youth/11.jpg",
+      "thumbnail": "assets/youth/11-thumb.jpg",
+      "source": "三角板 吴臻宜.jpg",
+      "size": [
+        1300,
+        2008
+      ]
+    },
+    {
+      "file": "assets/youth/12.jpg",
+      "thumbnail": "assets/youth/12-thumb.jpg",
+      "source": "未标题-2.jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    }
+  ],
+  "gifts": [
+    {
+      "file": "assets/gifts/01.jpg",
+      "thumbnail": "assets/gifts/01-thumb.jpg",
+      "source": "1未标题-2-01(3).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/gifts/02.jpg",
+      "thumbnail": "assets/gifts/02-thumb.jpg",
+      "source": "木板 王子潇.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/gifts/03.jpg",
+      "thumbnail": "assets/gifts/03-thumb.jpg",
+      "source": "三角板 姜雨迪.jpg",
+      "size": [
+        1300,
+        2008
+      ]
+    },
+    {
+      "file": "assets/gifts/04.jpg",
+      "thumbnail": "assets/gifts/04-thumb.jpg",
+      "source": "三角板 甄梦晓.jpg",
+      "size": [
+        1300,
+        2008
+      ]
+    },
+    {
+      "file": "assets/gifts/05.jpg",
+      "thumbnail": "assets/gifts/05-thumb.jpg",
+      "source": "木板 甄梦晓.jpg",
+      "size": [
+        1359,
+        2008
+      ]
+    },
+    {
+      "file": "assets/gifts/06.jpg",
+      "thumbnail": "assets/gifts/06-thumb.jpg",
+      "source": "三角板 田乐.jpg",
+      "size": [
+        1300,
+        2008
+      ]
+    },
+    {
+      "file": "assets/gifts/07.jpg",
+      "thumbnail": "assets/gifts/07-thumb.jpg",
+      "source": "未标题-2-01(2).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    },
+    {
+      "file": "assets/gifts/08.jpg",
+      "thumbnail": "assets/gifts/08-thumb.jpg",
+      "source": "未标题-2-02(2).jpg",
+      "size": [
+        1386,
+        2048
+      ]
+    }
+  ]
+}
