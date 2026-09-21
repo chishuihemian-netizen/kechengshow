@@ -1,0 +1,13 @@
+name = "timeless-east-votes"
+main = "worker.js"
+compatibility_date = "2026-09-21"
+
+[vars]
+# Set this to the exact GitHub Pages origin, without a trailing slash or repository path.
+SITE_ORIGIN = "https://YOUR_USERNAME.github.io"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "timeless-east-votes"
+# Replace after `npx wrangler d1 create timeless-east-votes`.
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
