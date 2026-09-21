@@ -1,4 +1,4 @@
-const WORK_SIZES = [6, 3, 3, 4];
+const WORK_SIZES = [16, 14, 12, 8];
 
 function validWork(work) {
   const match = /^([0-3])-([0-9])$/.exec(work || "");
